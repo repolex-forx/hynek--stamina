@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/hynek/stamina/commit/5c13c8e0b4bc5faa54914115a8c796934ba6da9d",
       "git:hexsha": "5c13c8e0b4bc5faa54914115a8c796934ba6da9d",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-20T14:35:58.664694+00:00"
     },
     {
       "@id": "https://repolex.ai/r/hynek/stamina/commit/a12c40c2a6b69f6075f26f8e6f01df4a0b4e8b69",
